@@ -10,7 +10,7 @@ references if they were interesting.
 | Communicating Sequential Processes | [Link](csp.pdf) | skimmed before, re-read | Golang channels essentially.. |
 | Making reliable distributed systems in the presence of software errors | [Link](armstrong_thesis_2003.pdf) | Unread | |
 | Why Do Computers Stop and What Can Be Done About It? | [Link](tandem_computers_why_computers_stop_85.7.pdf) | Read | referenced from Joe Armstrong's PhD, quite interesting, [My notes](notes/gray_why_do_computers_stop.md) |
-| A contention adapting approach to concurrent ordered sets | [Link](ordered_sets.pdf.pdf) | [Erlang blog post](https://blog.erlang.org/the-new-scalable-ets-ordered_set/) | Unread | | 
-| A Message System Supporting Fault Tolerance | [Link](borg-1983.pdf) | referenced in *Why do computers stop*, precursor to Event Sourcing systems? |
-| Distributed Computer Systems - Four Case Studies | [Link](TR-85.5.pdf) | referenced in *Why do computers stop* |
-| Fail-Stop Processors: An Approach to Designing Fault-Tolerant Computing Systems | [Link](357369.357371.pdf) | referenced in *Why do computers stop*, the "fail fast module", perhaps where Joe got the inspiration about let it crash? |
+| A contention adapting approach to concurrent ordered sets | [Link](ordered_sets.pdf.pdf) | Unread | [Erlang blog post](https://blog.erlang.org/the-new-scalable-ets-ordered_set/) | 
+| A Message System Supporting Fault Tolerance | [Link](borg-1983.pdf) | Unread | referenced in *Why do computers stop*, precursor to Event Sourcing systems? |
+| Distributed Computer Systems - Four Case Studies | [Link](TR-85.5.pdf) | Unread | referenced in *Why do computers stop* |
+| Fail-Stop Processors: An Approach to Designing Fault-Tolerant Computing Systems | [Link](357369.357371.pdf) | Unread | referenced in *Why do computers stop*, the "fail fast module", perhaps where Joe got the inspiration about let it crash? |
