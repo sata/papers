@@ -3,7 +3,7 @@
 Start documenting the papers I read so that I can find them later for
 references if they were interesting.
 
-Check wiki for articles that I haven't stored in the repo.
+Check [wiki](https://github.com/sata/papers/wiki) for articles that I haven't stored in the repo.
 
 # Comp Sci Papers
 
