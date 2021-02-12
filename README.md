@@ -8,7 +8,7 @@ Check [wiki](https://github.com/sata/papers/wiki) for articles that I haven't st
 # Comp Sci Papers
 
 | Title                                                                           | Link                                                 | Status             | Notes                                                                                |
-|---------------------------------------------------------------------------------+------------------------------------------------------+--------------------+--------------------------------------------------------------------------------------|
+|---------------------------------------------------------------------------------|------------------------------------------------------|--------------------|--------------------------------------------------------------------------------------|
 | Communicating Sequential Processes                                              | [Link](csp.pdf)                                      | :eyes:             | Golang channels essentially..                                                        |
 | Making reliable distributed systems in the presence of software errors          | [Link](armstrong_thesis_2003.pdf)                    | :eyes:             |                                                                                      |
 | Why Do Computers Stop and What Can Be Done About It?                            | [Link](tandem_computers_why_computers_stop_85.7.pdf) | :heavy_check_mark: | referenced from Joe Armstrong's PhD, [My notes](notes/gray_why_do_computers_stop.md) |
@@ -18,10 +18,8 @@ Check [wiki](https://github.com/sata/papers/wiki) for articles that I haven't st
 | Fail-Stop Processors: An Approach to Designing Fault-Tolerant Computing Systems | [Link](357369.357371.pdf)                            | :eyes:             | [0]                                                                                  |
 | Towards an API for the Real Numbers                                             | [Link](3385412.3386037.pdf)                          | :eyes:             | [0]                                                                                  |
 
-
 [0] Referenced in [Why do computers stop](tandem_computers_why_computers_stop_85.7.pdf), the "fail fast module", perhaps where Joe got the inspiration about let it crash?
 [1] [From The morning paper](https://blog.acolyer.org/2020/10/02/toward-an-api-for-the-real-numbers/), reminds me of a erlang system using external system for calculating real numbers.
-
 
 # Practices
 | Title             | Link                   | Status | Notes                                     |
