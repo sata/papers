@@ -16,9 +16,10 @@ Check [wiki](https://github.com/sata/papers/wiki) for articles that I haven't st
 | A Message System Supporting Fault Tolerance                                     | [Link](borg-1983.pdf)                                | :eyes:             | referenced in *Why do computers stop*, precursor to Event Sourcing systems?          |
 | Distributed Computer Systems - Four Case Studies                                | [Link](TR-85.5.pdf)                                  | :eyes:             | referenced in *Why do computers stop*                                                |
 | Fail-Stop Processors: An Approach to Designing Fault-Tolerant Computing Systems | [Link](357369.357371.pdf)                            | :eyes:             | [0]                                                                                  |
-| Towards an API for the Real Numbers                                             | [Link](3385412.3386037.pdf)                          | :eyes:             | [0]                                                                                  |
+| Towards an API for the Real Numbers                                             | [Link](3385412.3386037.pdf)                          | :eyes:             | [1]                                                                                  |
 
 [0] Referenced in [Why do computers stop](tandem_computers_why_computers_stop_85.7.pdf), the "fail fast module", perhaps where Joe got the inspiration about let it crash?
+
 [1] [From The morning paper](https://blog.acolyer.org/2020/10/02/toward-an-api-for-the-real-numbers/), reminds me of a erlang system using external system for calculating real numbers.
 
 # Practices
