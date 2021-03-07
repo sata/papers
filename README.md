@@ -22,7 +22,12 @@ Check [wiki](https://github.com/sata/papers/wiki) for articles that I haven't st
 
 [1] [From The morning paper](https://blog.acolyer.org/2020/10/02/toward-an-api-for-the-real-numbers/), reminds me of a erlang system using external system for calculating real numbers.
 
+# GNU/Linux
+| Title     | Link                  | Status             | Notes |
+|-----------|-----------------------|--------------------|-------|
+| Wireguard | [Link](wireguard.pdf) | :eyes: |       |
+
 # Practices
 | Title             | Link                   | Status | Notes                                     |
 |-------------------|------------------------|--------|-------------------------------------------|
-| Chaos Engineering | [Link](1702.05843.pdf) | Unread | I should read this to improve fire drills |
+| Chaos Engineering | [Link](1702.05843.pdf) | :eyes | I should read this to improve fire drills |
