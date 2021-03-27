@@ -31,3 +31,6 @@ Check [wiki](https://github.com/sata/papers/wiki) for articles that I haven't st
 | Title             | Link                   | Status | Notes                                     |
 |-------------------|------------------------|--------|-------------------------------------------|
 | Chaos Engineering | [Link](1702.05843.pdf) | :eyes | I should read this to improve fire drills |
+
+# Book club notes
+* [How to Measure Anything: Finding the Value of Intangibles in Business](./bookclub/howto_measure_anything.md)
