@@ -1,9 +1,9 @@
-(Define a decision) -> (Determine what I know now)
-(Determine what I know now) -> (Compute the value of additional information)
+(Define a decision) -> (Determine what I now know)
+(Determine what I now know) -> (Compute the value of additional information)
 (Compute the value of additional information) -> (NONE)
 (NONE) -> (Make a decision and act on it)
 (Compute the value of additional information) -> (Measure where information value is high)
-(Measure where information value is high) -> (Determine what I know now)
+(Measure where information value is high) -> (Determine what I now know)
 
 
 
