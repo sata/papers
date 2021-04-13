@@ -68,6 +68,27 @@
     * Measuring Orchestra performance - simple measurement of measuring number of standing ovations
 * Think of measurement as iterative. Experiment, makes an attempt, MVP in product thinking?
 
+## Chapter 4
+
+* A decision has uncertainty.. There have to be two or more choices and _the best c hoice is not certain_
+* Oversimplified model: 
+  * Estimated Cost of Action X.
+  * Estimated Benefits of Action X.
+  * If Benefit of Action X exceed Cost of Action X, execute X.
+  * Decompose a la Fermi into more detail
+* Donald G. MacGregor and J. S. Armstrong "Judgemental Decomposition: When does it work?" 
+  * Fermis decomposition improves estimates where error rates are high when you estimate without decomposition. Estimating circumference of a coin vs estmating number of total auto accidents per year.
+* The definitions of Uncertainty, Risk and their measurements. Page 84.
+  * measuring uncertainty and risk involves assigning probabilities
+  * A reduction in risk must mean that the probability and/or severity (loss) decreases for a particular list of events.
+* The IT security example is very good to describe when it's unclear what is being reduced in terms of uncertainty and risk.
+  * Improved IT security means a reduction in the frequency and severity of a specific list of undesierable events.
+    * Each event would have impacts represented as a specific combination of costs. 
+      * Example: Average annual cost of virus attacks = no of attacks * avg number of people affected * avg productivity loss * avg duration of downtime * annual cost of labor * 2,080 hours per year.
+* Page 89, effects table, what I didn't like. Uncertain variable: Agancy wide virut attacks per year, 90% likelty to fall between 2 and 4. 
+  * "These ranges may seem merely subjective ... but the subjective estimates of some persons are demonstrably - measurably - better than those of others" - How do you quantify this? How do you measure the calibration of an experts opinion? 
+ * 
+ 
 
 <!--  LocalWords:  startuml aie puml enduml png
  -->
