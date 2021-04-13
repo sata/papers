@@ -87,7 +87,6 @@
       * Example: Average annual cost of virus attacks = no of attacks * avg number of people affected * avg productivity loss * avg duration of downtime * annual cost of labor * 2,080 hours per year.
 * Page 89, effects table, what I didn't like. Uncertain variable: Agancy wide virut attacks per year, 90% likelty to fall between 2 and 4. 
   * "These ranges may seem merely subjective ... but the subjective estimates of some persons are demonstrably - measurably - better than those of others" - How do you quantify this? How do you measure the calibration of an experts opinion? 
- * 
  
 
 <!--  LocalWords:  startuml aie puml enduml png
