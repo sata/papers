@@ -87,7 +87,24 @@
       * Example: Average annual cost of virus attacks = no of attacks * avg number of people affected * avg productivity loss * avg duration of downtime * annual cost of labor * 2,080 hours per year.
 * Page 89, effects table, what I didn't like. Uncertain variable: Agancy wide virut attacks per year, 90% likelty to fall between 2 and 4. 
   * "These ranges may seem merely subjective ... but the subjective estimates of some persons are demonstrably - measurably - better than those of others" - How do you quantify this? How do you measure the calibration of an experts opinion? 
- 
+
+## Chapter 5
+
+* Confidence Interval
+  * Why 90%? For the same reasons why choose to look at 90,95% percentiles. shaving off the extreme values (impossible values or highly unlikely) to observe patterns (imho)
+ * Calibration exercises
+  * Reptition and feedback.
+  * Equivalent bets: test if my interval or probablity actually reflects my uncertainty
+  * avoid anchoring. Think of range questions as two seperate binary questions  of the form "are you 95% certain that the true value is over/under the lower/upper bound?
+  * Reverse the anchoring effect. Start with extremely wide ranges and anarrow them with the "absurdity test" as I eliminate highly unlikely values.
+  * The conceptual obstacles to calibration sections were interesting
+ * If you're allowed to model your uncertainty with ranges and probablilities you don't have to state something you don't know for a fact.
+ * if you have "no idea" that a narrow range is correct, you simply widen it until it reflects what you do know - with 90% confidence.
+ * Enrico Fermi: there were ways to come to reasonable ranges, there is nothing we will likely ever need to measure where our only bounds are negative infinity to positive infinity.
+ * they have been taught in business. the lack of an exact number is the same as knowing nothing or perhaps because they will be held accountable for a number.
+ * Horace: "There is a measure in everything. There are fixed limits beyond which and short of which right cannot find a resting place"
+ * Your objective is to state a range that represent you 90% CI... means you think there is a 5% chance the value is below my lower bound and 5% chance that the value is above our upper bound.
+ * Modeling my initial uncertainty is an interim step, not the end goal. So that we can decide if we need to obtain more data by measuring more or if we can act on it (AIE).
 
 <!--  LocalWords:  startuml aie puml enduml png
  -->
