@@ -101,7 +101,7 @@
  * If you're allowed to model your uncertainty with ranges and probablilities you don't have to state something you don't know for a fact.
  * if you have "no idea" that a narrow range is correct, you simply widen it until it reflects what you do know - with 90% confidence.
  * Enrico Fermi: there were ways to come to reasonable ranges, there is nothing we will likely ever need to measure where our only bounds are negative infinity to positive infinity.
- * they have been taught in business. the lack of an exact number is the same as knowing nothing or perhaps because they will be held accountable for a number.
+ * they have been taught in business that the lack of an exact number is the same as knowing nothing or perhaps because they will be held accountable for a number.
  * Horace: "There is a measure in everything. There are fixed limits beyond which and short of which right cannot find a resting place"
  * Your objective is to state a range that represent you 90% CI... means you think there is a 5% chance the value is below my lower bound and 5% chance that the value is above our upper bound.
  * Modeling my initial uncertainty is an interim step, not the end goal. So that we can decide if we need to obtain more data by measuring more or if we can act on it (AIE).
